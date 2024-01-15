@@ -1,0 +1,225 @@
+header .h-890{
+    height: 870px;
+}
+
+.layer1{
+    top:186px;
+    right:255px;
+}
+nav{
+    top:70px;
+    left:255px;
+}
+.carousel-item .menu-1{
+    padding:0;
+}
+.carousel-item .menu-1 .logo-img{
+    margin-right:250px;
+}
+.carousel-item .menu-1 .option-1{
+    margin-right:55px;
+    padding-top:20px;
+}
+.carousel-item .menu-1 .language{
+    color:#26194e;
+    text-decoration: underline;
+}
+.content-layer{
+    width:600px;
+    top:290px;
+    left:255px;
+}
+
+.content-layer > .content{
+    font-size: 1rem;
+    margin-bottom:40px;
+}
+.content-layer  button{
+    width:155px;
+    height:45px;
+    font-size:1rem;
+    color:#276eef;
+    border:none;
+}
+section .introduce{
+    background-color: #f3f3f3;
+    text-align: center;
+    height: 1580px;
+}
+.color-title{
+    color:#013c8c;
+}
+
+.slick-initialized .slick-slide{
+    margin:0rem 1.5rem;
+}
+.list-img{
+    margin-left:5rem;
+    margin-top:4.5rem;
+}
+
+.copperation .content{
+    text-align: left;
+    margin:0px 250px;
+}
+.copperation .content span{
+   padding-right:5rem;
+}
+
+.services .img-services-1{
+    background-image: url('../Images/home/icon_software.png');
+    width:85px;
+    height: 90px;
+
+}
+.services .img-services-1:hover{
+    background-image: url('../Images/home/icon_soft1.png');
+    width:85px;
+    height: 90px;
+
+}
+.services .img-services-2{
+    background-image: url('../Images/home/icon_product.png');
+    width:107px;
+    height: 86px;
+}
+.services .img-services-2:hover{
+    background-image: url('../Images/home/icon_product1.png');
+    width:107px;
+    height: 86px;
+}
+.services .img-services-3{
+    background-image: url('../Images/home/icon_enter.png');
+    width:105px;
+    height: 88px;
+}
+.services .img-services-3:hover{
+    background-image: url('../Images/home/icon_enter1.png');
+    width:105px;
+    height: 88px;
+}
+.services .img-services-4{
+    background-image: url('../Images/home/icon_intra.png');
+    width:82px;
+    height: 92px;
+}
+.services .img-services-4:hover{
+    background-image: url('../Images/home/icon_intra1.png');
+    width:82px;
+    height: 92px;
+}
+.services .img-services-5{
+    background-image: url('../Images/home/icon_eco.png');
+    width:87px;
+    height: 109px;
+}
+.services .img-services-5:hover{
+    background-image: url('../Images/home/icon_eco1.png');
+    width:87px;
+    height: 109px;
+}
+.services .img-services-6{
+    background-image: url('../Images/home/icon_blockchain.png');
+    width:92px;
+    height: 92px;
+}
+.services .img-services-6:hover{
+    background-image: url('../Images/home/icon_blockchain1.png');
+    width:92px;
+    height: 92px;
+}
+
+.col-4{
+    margin-top:80px;
+}
+.img-services-1,.img-services-2,.img-services-3,.img-services-4,.img-services-5,.img-services-6{
+    margin-bottom:40px;
+}
+.research-develop .intro-search-develop{
+    padding:0px 400px;
+}
+
+.research{
+    width:34.5rem;
+    height:18rem;
+    border: 3px solid #aaaaaa;
+    -webkit-box-shadow: 0px 0px 5px -1px rgba(170,170,170,1);
+    -moz-box-shadow: 0px 0px 5px -1px rgba(170,170,170,1);
+    box-shadow: 0px 0px 5px -1px rgba(170,170,170,1);
+    padding: 40px 0px 0px 40px;
+    top:19rem;
+    left:12.5rem;
+
+}
+.research #ul{
+    list-style:disc;
+}
+.research > .title{
+    font-size:1.8rem;
+    color:#828282;
+}
+.btn-discovery button{
+    width:10.5rem;
+    height: 3.5rem;
+    justify-items: center;
+    background-color: #013c8c;
+    margin-top: 1rem;
+}
+.development{
+    width:34.5rem;
+    height:18.2rem;
+    background-color: #013c8c;
+    -webkit-box-shadow: 0px 0px 6px 2px rgba(170,170,170,1);
+-moz-box-shadow: 0px 0px 6px 2px rgba(170,170,170,1);
+box-shadow: 0px 0px 6px 2px rgba(170,170,170,1);
+ top:24.8rem;
+ left:38rem;
+ padding: 20px 0px 0px 45px ;
+}
+
+.development .content{
+    padding:10px 200px 50px 60px;
+}
+.img-re-dev{
+    top:12rem;
+    right: 12.5rem;
+}
+
+.img-den{
+    top:45px;
+    left:35px;
+}
+.part .content{
+    top:350px;
+    left:65px;
+}
+
+.part .content .content-lr{
+    font-size:0.9rem;
+    padding-right:50px;
+}
+.part .content .btn-Learn{
+    width:305px;
+    height: 80px;
+    border: 1px solid white;
+   font-size: 1.2rem;
+   padding:20px 60px;
+   margin-top:30px;
+}
+.hong,.xanh{
+    top: 450px !important;
+}
+
+.btn-viewmore button{
+    width:280px;
+    height: 100px;
+    justify-items: center;
+    background-color: #013c8c;
+    margin-top: 65px;
+}
+.JOIN .title{
+    margin-top: 100px;
+}
+.JOIN .content{
+    padding:0px 500px;
+}

@@ -1,0 +1,63 @@
+.banner .contact{
+    top:30%;
+    left:0;
+}
+.contact .title{
+    font-size:2.4rem;
+    font-weight: bold;
+}
+.contact .content{
+    font-size:1.2rem;
+    padding:2rem 22rem;
+}
+.w{
+    width:71rem;
+}
+.margin-120{
+    margin-top:6rem;
+}
+.title-form{
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.form .title,.banner-1 .title{
+    font-size:1.8rem;
+    font-weight: bold;
+}
+.size-content-form{
+    font-size: 1.5rem;
+}
+.input-text{
+    color:#777878; 
+    background-color: #e6e6e6;
+    height:3rem;
+}
+.input-textarea{
+    color:#777878; 
+    background-color: #e6e6e6;
+}
+.input-submit{
+    background-color: #281d52;
+    height: 3rem;
+    font-size:1.4rem;
+}
+.color-form{
+    color:#281d52;
+}
+.banner-1 .Subscrible{
+    padding-top:3.75rem;
+}
+.Subscrible .content{
+    font-size:1.2rem;
+    padding:0rem 22rem;
+}
+.Subscrible .button{
+    background-color: #ffff;
+    color: #013c8c;
+    font-size:1.2rem;
+    width:10rem;
+    margin-left:40rem;
+}
+

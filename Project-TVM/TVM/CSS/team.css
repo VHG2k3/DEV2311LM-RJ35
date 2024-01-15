@@ -1,0 +1,114 @@
+.navbar-light{
+    .nav-link{
+        color: #ffff!important;
+    }
+    .nav-link:hover{
+        color:#c5ad3d!important;
+    }
+}
+.nav-link-language{
+    color: #26194e !important;;
+}
+
+.intro-content{
+    left:12.5rem;
+}
+.intro-content h1{
+    font-size:2.4rem;
+    font-weight: bold;
+}
+.intro-content p{
+    font-size:1.5rem;
+    width:26rem;
+}
+.img-in-layer1{
+    right: 12.5rem;
+    bottom:4rem;
+}
+.color-team{
+    color:#26194e;
+}
+.reasons .reason-content{
+    font-size: 1.2rem;
+}
+.reason-img{
+    width:6rem;
+    height: auto;
+}
+.pt-60{
+    padding-top:3rem;
+}
+.slick-initialized .slick-slide{
+    margin:0rem 1.5rem;
+}
+.list-img{
+    margin-left:5rem;
+    margin-top:4.5rem;
+}
+.leader .col-md-3{
+    border: 1px solid #cccc;
+    width:16.5rem;
+}
+.leader{
+    margin-top:6rem;
+}
+
+.leader h2{
+    font-size:2.4rem;
+    font-weight: bold;
+}
+.leader > p{
+    font-size:1.5rem;
+    font-weight: bold;
+    padding:1.8rem 13rem;
+
+}
+.avata{
+    background-image: url('../Images/Team/avata.png');
+    background-repeat: no-repeat;
+    width:6.5rem;
+    height: 6.5rem;
+}
+.avata:hover{
+    background-image:url('../Images/Team/Alan.png') ;
+}
+.Alan h3{
+    font-size:1.8rem;
+    font-weight: bold;
+    padding-top: 1.5rem;
+}
+.leader .in{
+    top:25%;
+    right:58%;
+}
+.leader .twitter{
+    top:28%;
+    right:33%;
+}
+
+.content-partners h2{
+    margin-top:3.5rem;
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+.content-partners p{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding:0rem 25rem;
+}
+.list-bird > .bird1{
+    background-image: url('../Images/Team/bird1.png');
+    width: 242px;
+    height: 223px;
+}
+.list-bird > .bird1:hover{
+    background-image: url('../Images/Team/bird1-color.png');
+}
+.list-bird > .bird2{
+    background-image: url('../Images/Team/bird2.png');
+    width: 345px;
+    height: 300px;
+}
+.list-bird > .bird2:hover{
+    background-image: url('../Images/Team/bird2-color.png');
+}

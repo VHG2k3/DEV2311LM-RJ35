@@ -1,0 +1,62 @@
+.content-overview h2{
+    font-size:2rem;
+    font-weight: bold;
+    padding-right: 50rem;
+}
+
+.content-overview p{
+    font-size: 1.2rem;
+    padding-right: 50rem;
+}
+.content-overview{
+    top:9rem;
+    left:12.5rem;
+}
+.color_text{
+    color:#261a4e;
+}
+
+.mt-6{
+    margin-top: 6rem;
+}
+
+.content-business{
+    height: 370px;
+}
+.img-Time{
+    background-image: url('../Images/whychooseus/business_values/time.png');
+    width:491px;
+    height: 475px;
+    background-repeat: no-repeat;
+}
+.img-Time:hover{
+    background-image: url('../Images/whychooseus/business_values/time_hover.png');
+}
+.img-Cost{
+    background-image: url('../Images/whychooseus/business_values/Cost.png');
+    width:722px;
+    height: 540px;
+    background-repeat: no-repeat;
+}
+.img-Cost:hover{
+    background-image: url('../Images/whychooseus/business_values/Cost_hover.png');
+}
+.img-Risk{
+    background-image: url('../Images/whychooseus/business_values/Risk.png');
+    width:722px;
+    height: 540px;
+    background-repeat: no-repeat;
+}
+.img-Risk:hover{
+    background-image: url('../Images/whychooseus/business_values/Risk_hover.png');
+}
+
+.what .content{
+    padding:2rem 15rem;
+}
+.what .container img{
+    padding:1rem 0rem;
+}
+.project .content{
+    top:2rem;
+}

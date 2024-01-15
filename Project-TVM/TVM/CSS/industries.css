@@ -1,0 +1,64 @@
+.industries .title{
+    font-size: 2.4rem;
+    font-weight: bold;
+    color:#281d52;
+    padding-top:4.5rem;
+    
+}
+.industries .content{
+    font-size: 1.4rem;
+    border-left: 0.5rem solid #281d52;
+    color:#261b4f;
+    padding-left:1.2rem;
+    margin:1.2rem 0rem;
+}
+.industries .button button{
+    background-color: #281d52;
+    width:8rem;
+    height:2.4rem;
+    font-size:1rem;
+}
+.industries{
+    margin-bottom:7rem ;
+}
+.p-right{
+    padding-right:5rem;
+}
+.information p{
+    border-top:0.5rem solid #281d52;
+    font-size:1.4rem;
+    width:9rem;
+    padding-top:1rem;
+}
+.information p, .title-infor, .content-infor{
+    color:#281d52;
+}
+.information .title-infor{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin:1rem 0rem;
+}
+.information .content-infor{
+    font-size: 1.4rem;
+   
+}
+.information .button-infor button{
+    background-color: #281d52;
+    width:10.5rem;
+    height:auto;
+    font-size:1.4rem;
+    font-weight: bold;
+    margin-top:2rem;
+}
+.information .button-infor button:hover{
+    background-color: #c5ad3d;
+}
+.pe-25{
+    padding-right: 2.5rem;
+}
+.pe-35{
+    padding-left:3.5rem;
+}
+.mt-90{
+    margin-top:4.5rem;
+}

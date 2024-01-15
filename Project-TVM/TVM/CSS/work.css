@@ -1,0 +1,68 @@
+.color-text{
+    color:#261b4f;
+}
+.color-title{
+    color:#281d52;
+}
+
+
+.mt-6{
+    margin-top:6rem;
+}
+.ourwork .content{
+    padding-top:4rem;
+}
+.ourwork .content p{
+    border-left: 0.5rem solid #281d52;
+    padding-right: 4rem;
+    padding-left:1rem;
+}
+.btn-our-work{
+    background-color: #281d52;
+    border: none;
+    width: 6rem;
+    height: 2rem;
+    font-size: 1rem;
+}
+.color-recent{
+    color:#8e83ba;
+}
+.btn-recent{
+    background-color: #281d52;
+    border: none;
+    font-size:1.4rem;
+    width: 10rem;
+    height: 3rem;
+    margin-top:3rem;
+}
+.content-prop{
+    display: none;
+}
+.img-prop:hover .content-prop{
+    display: block;
+    background-color: #5c5b5c;
+    opacity: 0.8;
+    width:398px;
+    height: 330px;
+}
+.form-check-input{
+    border-radius: 0!important;
+    border-color: #281d52;
+}
+.h-3{
+    height: 3rem;
+}
+.form-input{
+    border:none;
+    background-color: #e6e6e6;
+    padding-left:1.5rem;
+}
+.btn-primary{
+    background-color: #281d52;
+    border: #281d52;
+    border-radius: 0;
+    height: 3.5rem;
+}
+.btn{
+    font-size:1.4rem;
+}

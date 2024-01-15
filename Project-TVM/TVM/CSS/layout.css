@@ -1,0 +1,221 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    color:white;
+    font-family: 'Sarabun', sans-serif;
+    
+}
+
+    
+    @media only screen and (max-width: 1921px) {
+        html{
+            font-size:20px;
+        }
+        .container{
+            max-width: 1420px;
+        }
+        .list-img .container{
+            max-width:86rem;
+        }
+        
+        .p-30{
+            padding-left:2.3rem;
+        }
+        .Alan p{
+           max-width:10rem;
+            font-size: 1.2rem;
+            max-height: 5rem;
+        }
+        .blockchain .container .icon{
+            margin-right: 3rem;
+        }
+      }
+    @media only screen and (max-width:1410px){
+        html{
+            font-size:14px;
+        }
+        .container{
+            max-width: 1000px;
+        }
+        .p-30{
+            padding-left:1.5rem;
+        }
+        .blockchain .container .icon{
+            margin-right: 1.5rem;
+        }
+      }
+      @media only screen and (max-width:1210px){
+        html{
+            font-size:12px;
+        }
+        .container{
+            max-width: 900px;
+        }
+        .p-30{
+            padding-left:1.2rem;
+        }
+        .blockchain .container .icon{
+            margin-right: 1rem;
+        }
+      }
+      @media only screen and (min-width: 1921px){
+       .container{
+            max-width: 1700px;
+        }
+        .list-img .container{
+            max-width: 2000px;
+        }
+        html{
+            font-size:24px;
+        }
+        .p-30{
+            padding-left:2rem;
+        }
+        .blockchain .container .icon{
+            margin-right: 2.8rem;
+        }
+    }
+    @media only screen and (max-width: 992px){
+        html{
+            font-size:10px;
+        }
+        .banner-1 .Subscrible{
+            padding-top:0rem!important;
+        }
+    }
+    @media only screen and (max-width: 768px){
+        html{
+            font-size:8px;
+        }
+        .margin{
+            margin:5rem!important;
+        }
+        .menu-footer{
+            width:80rem;
+            margin-left:0rem;
+        }
+        .pe-25,.pe-35{
+            padding-right: 0rem!important;
+        }
+        
+       
+    }
+    @media only screen and (max-width:576px){
+        html{
+            font-size:5px;
+        }
+        
+    }
+.p-re{
+    position:relative;
+}
+.p-asl{
+    position: absolute;
+}
+.margin{
+    margin:0rem 12.5rem;
+}
+.m-30{
+    margin-left:2rem;
+}
+
+.container{
+    padding:0;
+    margin:0;
+}
+.navbar-light{
+    .nav-link{
+        color: #261a4e!important;
+    }
+    .nav-link:hover{
+        color:#c5ad3d!important;
+    }
+}
+.logo{
+    width:8rem;
+    margin-right: 11.5rem;
+    padding-top:3rem;
+}
+.nav-item{
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-top:3rem;
+}
+.nav-link-language{
+    color: #c5ad3d!important;
+    text-decoration: underline;
+}
+.color-nav{
+    color: #261a4e;
+}
+.menu-footer .option-footer{
+    font-size:1.2rem;
+}
+.menu-footer{
+    width:72.5rem;
+    margin-left:-1.5rem;
+}
+.menu-footer .option-phone{
+    font-size:1.5rem;
+    margin-left: 11.5rem;
+}
+.logo-social{
+    top:23%;
+    left:25%;
+}
+.fs-2b{
+    font-size:2rem;
+    font-weight: bold;
+}
+.fs-12{
+    font-size: 1.2rem;
+}
+.fs-24b{
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+.fs-12b{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.fs-18{
+    font-size: 1.8rem;
+}
+.fs-18b{
+    font-size: 1.8rem;
+    font-weight: bold; 
+}
+.fs-13{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.fs-14{
+    font-size:1.4rem;
+}
+.fs-14b{
+    font-size:1.4rem;
+    font-weight: bold;
+}
+.fs-16b{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.fs-15{
+    font-size: 1.5rem;
+    font-weight:bold ;
+}
+header a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white!important;
+}
+header li>a:hover{
+    color:#c5ad3d!important;
+}
+header .language:hover{
+    color:#c5ad3d!important;
+}

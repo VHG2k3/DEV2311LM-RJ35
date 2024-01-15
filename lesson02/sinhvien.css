@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+}
+.body-left, .body-right{
+    margin-top:100px;
+}
+.body-left{
+    margin-left: 50px;
+    margin-right: 50px;;
+}
+
+.boxShadow{
+    border-radius: 10px;
+    -webkit-box-shadow: -2px 0px 17px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 0px 17px -5px rgba(0,0,0,0.75);
+    box-shadow: -2px 0px 17px -5px rgba(0,0,0,0.75);
+}
+.button{
+    background-color: rgb(17, 17, 143);
+    color:white;
+    height:50px;
+    border:none;
+    border-radius: 5px;
+    margin-top:10px;
+    padding:5px;
+    font-size: 20px;
+}
+.btnthemmoi{
+    margin:0px 100px 10px 10px;
+};
+.input-search,.input-sort{
+    border:1px solid #ccc;
+    width:400px;
+     height: 50px;  
+}
+.list h2{
+    padding-top:10px;
+}

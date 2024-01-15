@@ -1,0 +1,34 @@
+1. Download template Mock Project 3 -TodoList
+2. Chạy thử html
+3.Tạo mới project ReactJs: mini-project2
+
+--Sử dụng 1 ứng dụng với ReactJSHook--
++ UseState: Quản lý state
++ useEffect
++ useContext
++ useReducer
++ useCallback
+.....
+4. Chuyển giao diện từ html->JSX
+- mở file index.html từ TodoList
+- Copy code ->transform.tool 
+- Copy code jsx từ tool -> App.js
+- Copy thư mục (css,fonts,) ->thư mục public
+- Liên kết css,js trong trang index.html của ứng dụng mini-project2 (public)
+
+5. Phân chia các thành phần giao diện(function components)
+-App:
+    + Control
+    +  Form
+    +  ListTask(Task)
+
+6. Xác định các chức năng của ứng dụng
+    6.1:Hiển thị dữ liệu
+        +UseState(App) ->render(ListTask) ->render(Task)
+    6.2: Thêm Task
+    6.3: Sửa thông tin Task 
+    6.4: Xóa Task 
+    6.5: Tìm kiếm theo Task Name
+    6.6: Sắp xếp 
+
+
